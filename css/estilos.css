@@ -3,7 +3,18 @@ body {
     font-family: Arial;
 }
 
-h1 {
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0px auto;
+}
+
+#container h1 {
+
     color: black;
     text-shadow: 5px 15px 10px blue;
+
 }
